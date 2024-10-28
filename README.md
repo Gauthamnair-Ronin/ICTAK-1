@@ -1,11 +1,11 @@
 # Day-1
 ## Contents
-  - [Typing Club](https://github.com/Gauthamnair-Ronin/ICTAK-1/README.md#typing-club-%EF%B8%8F)
-  - [Visual Studio Code](https://github.com/Gauthamnair-Ronin/ICTAK-1/README.md#vsc-)
-	  - [Readme.md](readme.md)
-  - [Overleaf](overleaf)
-  - [Github dev portfolio](github-dev-portfolio)
-  - [Google Workspace Tools](google-workspace-tools)
+  - [Typing Club](https://www.typingclub.com/)
+  - [Visual Studio Code](https://code.visualstudio.com/)
+	  - [Readme.md](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+  - [Overleaf](https://www.overleaf.com/)
+  - [Github dev portfolio](https://github.com/topics/developer-portfolio)
+  - [Google Workspace Tools](https://about.google/products/)
 ## Typing Club ⌨️
   TypingClub is an interactive online platform designed to teach you touch typing. It incorporates gamified lessons, videos, and challenges to make learning fun and engaging. With its comprehensive curriculum and   personalized practice sessions, you can significantly improve your typing speed and accuracy. Whether you're a beginner or looking to refine your skills, TypingClub offers a structured approach to mastering 
   touch typing.

@@ -1,7 +1,7 @@
 # Day-1
 ## Contents
-  - [Typing Club](https://github.com/Gauthamnair-Ronin/ICTAK-1/main/README.md#typing-club-%EF%B8%8F)
-  - [Visual Studio Code](https://github.com/Gauthamnair-Ronin/ICTAK-1/main/README.md#vsc-)
+  - [Typing Club](https://github.com/Gauthamnair-Ronin/ICTAK-1/README.md#typing-club-%EF%B8%8F)
+  - [Visual Studio Code](https://github.com/Gauthamnair-Ronin/ICTAK-1/README.md#vsc-)
 	  - [Readme.md](readme.md)
   - [Overleaf](overleaf)
   - [Github dev portfolio](github-dev-portfolio)

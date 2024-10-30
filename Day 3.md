@@ -4,7 +4,7 @@
   - A Single Perceptron
   - ![](https://www.nomidl.com/wp-content/uploads/2022/04/image-5.png)
   - A Single Perceptron has Inputs that contain values to be fed into the perceptron. Once they are fed they are assigned weights which as numercial values mutlipled to the inputs to increase or decrease its influence on the training as well as the final output of the perceptron
-  - Once the inputs are assigned weights, they are fed into the perceptron for processing ahihc will involve a fucntion that will use the inputs to calculate a value which is called prediction.
+  - Once the inputs are assigned weights, they are fed into the perceptron for processing which will involve a fucntion that will use the inputs to calculate a value which is called prediction.
   - If the predicted value is undesirable, the weigths are readjusted using a loss function. This process is repeated until a desired value is obtained.
 ## Darpa Grand Challenge 🏎️
   - **D**efense **A**dvanced **R**esearch **P**rojects **A**gency

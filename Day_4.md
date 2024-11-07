@@ -40,6 +40,7 @@
     <br> ![](https://i.pinimg.com/564x/4e/cb/d0/4ecbd0703254a347f004bdb700f602ac.jpg)
   - Box PLOT
       - Shows median(q2), q1, q3, LB, UB, Outliers
+      - ![](https://citoolkit.com/wp-content/uploads/articles/box_plot_outline.png)
   - Univariate = data related to one variable
   - Scatter Plot (Bivariate Analysis)
       - Visually inspecting Correlation between two Variables
@@ -56,11 +57,16 @@
           The Spearman rank correlation examines the relationship between two variables, being the **non-parametric counterpart** of Pearson's correlation. Therefore, in this case, a normal distribution of the               data is not required.
         <br> Spearman correlation **uses the ranks** of the data rather than the original data, hence the name rank correlation.
   - Probability density function
+    
       A PDF is a function that describes the probability distribution of a continuous random variable. It's used to calculate the likelihood of a random variable falling within a specific range of values. PDFs are a fundamental concept in probability theory and statistics
 
     A probability distribution function can refer to a PDF, but it can also refer to a cumulative distribution function or a probability mass function (PMF). A PMF is used for discrete random variables, while a PDF is used for continuous random variables.
+    
   - Cumulative Density Function
-      - Advantage
+ 
+      The cumulative distribution function (CDF) of a random variable is another method to describe the distribution of random variables. The advantage of the CDF is that it can be defined for any kind of random variable (discrete, continuous, and mixed).
+    
+      
   - Scaling can be used to convert two tables of data in two different ranges into a single range data
 
   

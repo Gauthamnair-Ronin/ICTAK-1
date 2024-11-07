@@ -34,6 +34,7 @@
               ![](https://github.com/Gauthamnair-Ronin/ICTAK-1/blob/main/equation1.png)<br>
     Where y is the mean of the sample, tn-1, $\alpha$ /2 is the value t from the t-distribution, s is the standard deviation, and n is the number of observations.
   - Standard Deviation-  It calculates the measure of how spread out the values are in relation to the mean (average) value
+      ![](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/variation-for-data-comparisons/estimate-probability/images/cb3a31ab266c4db9e116a9cbf60734b2_656-e-37-fb-5341-4-c-5-a-8-daa-ededf-79904-b-8.png)
 
   - Variance - Variance is a measure of how spread out a set of values is from their average (mean). A higher variance indicates greater variability, while a lower variance suggests less variability.
     <br> ![](https://i.pinimg.com/564x/4e/cb/d0/4ecbd0703254a347f004bdb700f602ac.jpg)
@@ -55,6 +56,9 @@
           The Spearman rank correlation examines the relationship between two variables, being the **non-parametric counterpart** of Pearson's correlation. Therefore, in this case, a normal distribution of the               data is not required.
         <br> Spearman correlation **uses the ranks** of the data rather than the original data, hence the name rank correlation.
   - Probability density function
+      A PDF is a function that describes the probability distribution of a continuous random variable. It's used to calculate the likelihood of a random variable falling within a specific range of values. PDFs are a fundamental concept in probability theory and statistics
+
+    A probability distribution function can refer to a PDF, but it can also refer to a cumulative distribution function or a probability mass function (PMF). A PMF is used for discrete random variables, while a PDF is used for continuous random variables.
   - Cumulative Density Function
       - Advantage
   - Scaling can be used to convert two tables of data in two different ranges into a single range data

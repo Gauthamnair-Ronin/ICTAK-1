@@ -67,7 +67,10 @@
       The cumulative distribution function (CDF) of a random variable is another method to describe the distribution of random variables. The advantage of the CDF is that it can be defined for any kind of random variable (discrete, continuous, and mixed).
     
       
-  - Scaling can be used to convert two tables of data in two different ranges into a single range data
+  - Scaling is the process of transforming the values of a dataset so that they are on a similar scale and can be more easily compared and analyzed. Scaling is useful when working with variables that have different units or ranges, such as comparing the price of a house to its size and number of rooms. Scaling can be used to convert two tables of data in two different ranges into a single range data
+      - Min max scaling
+      - Standard scaling
+
 
   
 

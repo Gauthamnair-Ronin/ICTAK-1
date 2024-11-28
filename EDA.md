@@ -19,23 +19,43 @@ Data visualization is an important component of Exploratory Data Analysis (EDA) 
 <br> For categorical variables, we can use a bar plot (instead of a histogram) to quickly visualize the frequency (or proportion) of values in each category. For example, suppose we want to know how many apartments are available in each borough. We can visually represent that information as follows:
 <br>![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxOe4UoJwBFEMWnuHHN6sNnUwXdQbBYNGilw&s)
 
-
--  Matplolib
--  Figures
+### Matplolib
+-  Figures 
 -  Axis labels
 -  Sub-figures
 -  Ticks
 ### Types of Plots
 -  Line plots
+      -   Variables: Continuous data with one variable on the x-axis and another on the y-axis.
+          <br>Use Case: Used to show trends over time, smooth relationships, or changes in continuous data.
+
 -  Bar charts
+      -  Variables: Categorical data on the x-axis and numerical values on the y-axis.
+          <br>Use Case: Used to compare discrete categories or groups.
 -  Pie charts
+      -  Variables: Proportional data, typically percentages summing up to 100%.
+          <br>Use Case: Best for showing part-to-whole relationships but less effective with many categories.
 -  Histogram
+      -  Variables: Numerical data divided into bins (intervals).
+          <br>Use Case: Used to visualize the frequency distribution of data.
 -  CDF plot
+      -   Variables: Sorted numerical data to show the cumulative proportion.
+          <br>Use Case: Used to understand the probability or cumulative frequency distribution.
 -  KDE plot
+      -  Variables: Continuous numerical data.
+          <br>Use Case: Used to estimate the probability density function of a variable, smoother than a histogram.
 -  Scatter Plot
-  -  With color
+      -  Variables: Two continuous variables plotted against each other.
+          <br>Use Case: Used to identify relationships, patterns, or correlations between two variables.
+
+      -  With color -> Variables: Two continuous variables, with a third variable used to encode color.
+                        <br>Use Case: Used when adding an extra dimension to show variation in another attribute.
 -  Heatmaps
+      -  Variables: Matrix-like data with categories or indices on both axes.
+          <br>Use Case: Used to visualize data intensity or density across two categorical dimensions.
 -  Box plots
+      -  Variables: Numerical data grouped by a categorical variable.
+          <br>Use Case: Used to show the distribution, central tendency (median), and variability of data, including outliers.
  <br> *A scatter plot is a great option for investigating the relationship between two quantitative variables. For example, if we want to explore the relationship between rent and size_sqft, we could create a scatter plot*
 
 ### Seaborn
